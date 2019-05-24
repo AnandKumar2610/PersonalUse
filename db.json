@@ -1,5 +1,6 @@
 {
       "DropboxAPIKEY": "cZntkn8AE6AAAAAAAAAAeGyEIifcAzL_yQBd0BZQVCn97P74Aq_VH4G-JgiKdV-p",
-      "RebrandAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e"
+      "RebrandAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
+      "users":[{"name": "Anand","DeviceId": "", "PlayerID": ""}]
 }
 
