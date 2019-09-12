@@ -3,10 +3,10 @@
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "Interval": 10,
       "Snaps" : [
-	      {"Name" : "Previous Snap", "Dkey": "ddQ8vFSsyoAAAAAAAAAAgB1BhdQIQVLlX9jJaWkiPiVXgjVNEnMRAxh2rxPZjcDh"},
-              {"Name" : "Old Snap", "Dkey": "eK3qBsaJEXAAAAAAAAABI7yswePuAYCuBh05XWojBgPjd98YpKzfMP-5WhQZ9VXX"}, 
-              {"Name" : "Oldest Snap", "Dkey": "uqGqR-jjzbAAAAAAAAABLuhZfW8CCIX7ex8NfJIG1OxHmJt_qAKYCXjDqp5ubsOc"}, 
-              {"Name" : "Very Old Snap", "Dkey": "4JlgurXNFvAAAAAAAAABdH_RXdZ6LSKk69LsZd4MeCgqgBbAWUhJEmEjI9C2eXfD"}, 
+              {"Name" : "Previous Snap", "Dkey": "4JlgurXNFvAAAAAAAAABdH_RXdZ6LSKk69LsZd4MeCgqgBbAWUhJEmEjI9C2eXfD"}, 
+	      {"Name" : "Old Snap", "Dkey": "eK3qBsaJEXAAAAAAAAABI7yswePuAYCuBh05XWojBgPjd98YpKzfMP-5WhQZ9VXX"}, 
+              {"Name" : "Oldest Snap", "Dkey": "uqGqR-jjzbAAAAAAAAABLuhZfW8CCIX7ex8NfJIG1OxHmJt_qAKYCXjDqp5ubsOc"},
+              {"Name" : "Very Old Snap", "Dkey": "ddQ8vFSsyoAAAAAAAAAAgB1BhdQIQVLlX9jJaWkiPiVXgjVNEnMRAxh2rxPZjcDh"}, 
               {"Name" : "History Snap", "Dkey": "01UmRIxG4lAAAAAAAAAAkUUYBKDVElaiXG8J0Cx5tzXif-o3t8U4FxjqY552rjwE"}
       ],
       "Users":[{"Name": "Emulator","DeviceId": "fb206ae986614c4b", "PlayerID": ""}
