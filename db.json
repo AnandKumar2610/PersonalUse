@@ -8,7 +8,7 @@
 	      {"Dkey": "jrDMkDIbg1wtuVPE6mG0J2IONvUnR7LnCJ+k6RnZlQc8WOgdvQZLSEWDErcm4fU5KA/W4fJpVDos+K9mNzoNVqxKnFn4ikDR", "Size": "41"},
               {"Dkey": "jrDMkDIbg1wtuVPE6mG0J2IONvUnR7LnCJ+k6RnZlQc8WOgdvQZLSEWDErcm4fU5KA/W4fJpVDos+K9mNzoNVqxKnFn4ikDR", "Size": "64"}
               ],
-      "OmKeys" : ["608c6404", "608c64041", "608c64041"],
+      "OmKeys" : ["608c6404", "608c6404", "608c64041"],
       "Users":[{"Name": "Emulator","DeviceId": "fb206ae986614c4b", "PlayerID": ""}
               ,{"Name": "Admin","DeviceId": "9e3525e8bcb25114", "PlayerID": "9aea49f9-fbac-4f29-af2c-6ac2e930107e"}
               ,{"Name": "Anand","DeviceId": "73219bc37d7fadad", "PlayerID": ""}
