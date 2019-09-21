@@ -4,8 +4,8 @@
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "Interval": 10,
       "Snaps" : [
-              {"Dkey": "udlOGA6yUUH3uAI+pHS9FKl2nhYrT7UEhGDDH0ZlFQC1oH7CqyUqmbehXWliadQ/tCugYLaf+T1i/xC1EKvGVaxKnFn4ikDR", "Size": "17"}, 
 	      {"Dkey": "JcgIEqMASYQ2y8G+rmjkQgDg1sNizYxd8og56Y+ooy7Z1LdDWqaFhrYotlCADcokAg0+pto85wcSP4/QZ7twnKxKnFn4ikDR", "Size": "87"},
+              {"Dkey": "udlOGA6yUUH3uAI+pHS9FKl2nhYrT7UEhGDDH0ZlFQC1oH7CqyUqmbehXWliadQ/tCugYLaf+T1i/xC1EKvGVaxKnFn4ikDR", "Size": "17"}, 
               {"Dkey": "UZIPSPtIvR6wZ3PHA7lkdOBHqEZlLVhZz6jiqnRXxiycRkJxsypSGmuLamBM3LdPnfnV2PGbQ7DLee3trMahc6xKnFn4ikDR", "Size": "20"}
               ],
       "OmKeys" : ["608c6404", "608c6404", "608c6404"],
