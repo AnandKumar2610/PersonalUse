@@ -12,29 +12,29 @@
               {"Dkey": "O0EvEOb9fpVipELbH0+ogAxMwYtrbw0z3kijkwsOWFQdZyrnXyDtuYZlhNCUOV0LPOy0XtK4k9nKXEemzu4uXKxKnFn4ikDR", "Size": "23"}
               ],
       "OmKeys" : ["608c6404", "4b72cdce", "9e34e80c", "ba1c865d"],
-      "Users" : [{"Name":"Admin","DeviceId":"9e3525e8bcb25114","PlayerID":"9aea49f9-fbac-4f29-af2c-6ac2e930107e"}
-		,{"Name":"Ajay ","DeviceId":"dbe753f788d6443c","PlayerID":"76cc85ea-3d10-48c0-ad23-74374cda6436"}
-		,{"Name":"Anand","DeviceId":"73219bc37d7fadad","PlayerID":""}
-		,{"Name":"Anbu","DeviceId":"5189b1df10d5f311","PlayerID":"3c4ecca8-aa29-489b-851b-604f9bcdc497"}
-		,{"Name":"Anil ","DeviceId":"940b3432858179c8","PlayerID":"01e7a7ea-6133-4b50-ba9d-299ce2828b84"}
-		,{"Name":"Emulator","DeviceId":"fb206ae986614c4b","PlayerID":""}
-		,{"Name":"Faizel ","DeviceId":"59018a2c62f24474","PlayerID":"817bef76-d0e8-40d6-93fc-49ca8daef89d"}
-		,{"Name":"Kirthika ","DeviceId":"73cd11bea93cc0be","PlayerID":"642737c9-463e-4c9f-932c-4c7998125af5"}
-		,{"Name":"Kishore ","DeviceId":"73a3ecbdf853e4a2","PlayerID":"dffda549-16c1-44d3-a813-c8a0a65d9b89"}
-		,{"Name":"Krish ","DeviceId":"277dfac2ec0ab082","PlayerID":"4cd23e4d-3d33-4823-9224-8948c780491e"}
-		,{"Name":"Manu ","DeviceId":"8e4fd9dd2dadf1f4","PlayerID":"325d0f7e-ff04-4c1d-8a1b-443f6b48a58e"}
-		,{"Name":"Pandi ","DeviceId":"b18cfbd7dd0d255d","PlayerID":"2710f80b-98b4-4ab1-8e4e-81620ecae61f"}
-		,{"Name":"Rizwan","DeviceId":"4c1fceaeef099554","PlayerID":"cb0e9443-e595-4eff-86e2-65bb1caf7c75"}
-		,{"Name":"Sathish","DeviceId":"a808709a44dc3ce5","PlayerID":"153a30b9-030d-4e84-a876-3a869d25b17e"}
-		,{"Name":"Sathish Kevin","DeviceId":"b1ec2ae3f1b4bec7","PlayerID":"77d7aae3-1ba3-457d-8239-44a831d64900"}
-		,{"Name":"Sheik ","DeviceId":"ce99a93b8700108d","PlayerID":"793e4f39-d955-4cf0-8a87-add0c1d37523"}
-		,{"Name":"Sundhari","DeviceId":"dac40708c3d55a2c","PlayerID":"2a24a08c-30e0-4e81-82d6-bb4eabe6a144"}
-		,{"Name":"Sundhari ","DeviceId":"47c6df84ddd17f62","PlayerID":""}
-                ,{"Name":"Swetha ","DeviceId":"c68910630b715597","PlayerID":"c29b601d-483a-4fee-a8e6-334a462f3795"}
-		,{"Name":"Syed ","DeviceId":"d8ca0777c45708ea","PlayerID":"a3b66bf7-24b4-4deb-adf0-66218233e01d"}
-		,{"Name":"Thaila ","DeviceId":"e7d0ad67da3e3317","PlayerID":"6c15e118-54fd-4b2c-925f-5f93299accea"}
-		,{"Name":"Uday","DeviceId":"231fbd3219266247","PlayerID":"ec9deadb-5500-4eca-a8d8-0f416ff4f68a"}
-		,{"Name":"Venkat","DeviceId":"1fb45cc1b3d16e76","PlayerID":""}
-		,{"Name":"Vijay","DeviceId":"313bb238ae803c48","PlayerID":"d16248f2-2e9b-41fa-820c-47566c44efdc"}]
+      "Users" : [{"Name":"Admin","DeviceId":"9e3525e8bcb25114","PlayerID":"9aea49f9-fbac-4f29-af2c-6ac2e930107e", "MagicNotify": 1}
+		,{"Name":"Ajay ","DeviceId":"dbe753f788d6443c","PlayerID":"76cc85ea-3d10-48c0-ad23-74374cda6436", "MagicNotify": 0}
+		,{"Name":"Anand","DeviceId":"73219bc37d7fadad","PlayerID":"", "MagicNotify": 0}
+		,{"Name":"Anbu","DeviceId":"5189b1df10d5f311","PlayerID":"3c4ecca8-aa29-489b-851b-604f9bcdc497", "MagicNotify": 0}
+		,{"Name":"Anil ","DeviceId":"940b3432858179c8","PlayerID":"01e7a7ea-6133-4b50-ba9d-299ce2828b84", "MagicNotify": 0}
+		,{"Name":"Emulator","DeviceId":"fb206ae986614c4b","PlayerID":"", "MagicNotify": 0}
+		,{"Name":"Faizel ","DeviceId":"59018a2c62f24474","PlayerID":"817bef76-d0e8-40d6-93fc-49ca8daef89d", "MagicNotify": 0}
+		,{"Name":"Kirthika ","DeviceId":"73cd11bea93cc0be","PlayerID":"642737c9-463e-4c9f-932c-4c7998125af5", "MagicNotify": 0}
+		,{"Name":"Kishore ","DeviceId":"73a3ecbdf853e4a2","PlayerID":"dffda549-16c1-44d3-a813-c8a0a65d9b89", "MagicNotify": 0}
+		,{"Name":"Krish ","DeviceId":"277dfac2ec0ab082","PlayerID":"4cd23e4d-3d33-4823-9224-8948c780491e", "MagicNotify": 0}
+		,{"Name":"Manu ","DeviceId":"8e4fd9dd2dadf1f4","PlayerID":"325d0f7e-ff04-4c1d-8a1b-443f6b48a58e", "MagicNotify": 0}
+		,{"Name":"Pandi ","DeviceId":"b18cfbd7dd0d255d","PlayerID":"2710f80b-98b4-4ab1-8e4e-81620ecae61f", "MagicNotify": 0}
+		,{"Name":"Rizwan","DeviceId":"4c1fceaeef099554","PlayerID":"cb0e9443-e595-4eff-86e2-65bb1caf7c75", "MagicNotify": 0}
+		,{"Name":"Sathish","DeviceId":"a808709a44dc3ce5","PlayerID":"153a30b9-030d-4e84-a876-3a869d25b17e", "MagicNotify": 0}
+		,{"Name":"Sathish Kevin","DeviceId":"b1ec2ae3f1b4bec7","PlayerID":"77d7aae3-1ba3-457d-8239-44a831d64900", "MagicNotify": 0}
+		,{"Name":"Sheik ","DeviceId":"ce99a93b8700108d","PlayerID":"793e4f39-d955-4cf0-8a87-add0c1d37523", "MagicNotify": 0}
+		,{"Name":"Sundhari","DeviceId":"dac40708c3d55a2c","PlayerID":"2a24a08c-30e0-4e81-82d6-bb4eabe6a144", "MagicNotify": 0}
+		,{"Name":"Sundhari ","DeviceId":"47c6df84ddd17f62","PlayerID":"", "MagicNotify": 0}
+                ,{"Name":"Swetha ","DeviceId":"c68910630b715597","PlayerID":"c29b601d-483a-4fee-a8e6-334a462f3795", "MagicNotify": 0}
+		,{"Name":"Syed ","DeviceId":"d8ca0777c45708ea","PlayerID":"a3b66bf7-24b4-4deb-adf0-66218233e01d", "MagicNotify": 0}
+		,{"Name":"Thaila ","DeviceId":"e7d0ad67da3e3317","PlayerID":"6c15e118-54fd-4b2c-925f-5f93299accea", "MagicNotify": 0}
+		,{"Name":"Uday","DeviceId":"231fbd3219266247","PlayerID":"ec9deadb-5500-4eca-a8d8-0f416ff4f68a", "MagicNotify": 0}
+		,{"Name":"Venkat","DeviceId":"1fb45cc1b3d16e76","PlayerID":"", "MagicNotify": 0}
+		,{"Name":"Vijay","DeviceId":"313bb238ae803c48","PlayerID":"d16248f2-2e9b-41fa-820c-47566c44efdc", "MagicNotify": 0}]
 }
 
