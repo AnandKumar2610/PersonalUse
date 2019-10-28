@@ -3,7 +3,7 @@
       "TempMail": "qSXs9MZyJ0r01g/gZe4+c0GHeHHFvjry",
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "Interval": 30,
-      "Limit" : 5,
+      "Limit" : 2,
       "IncludeKeywords": "tam",
       "ExcludeKeywords": "",
       "SkipStartWith": "",
