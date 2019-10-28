@@ -6,7 +6,7 @@
       "Limit" : 2,
       "IncludeKeywords": "tam",
       "ExcludeKeywords": "",
-      "SkipStartWith": "",
+      "SkipStartWith": "a1",
       "SkipEndsWith": " main page/, getnewcomment",
       "Domain" : "https://www.tamilmv.win",
       "Snaps" : [
