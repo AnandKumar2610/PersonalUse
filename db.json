@@ -4,7 +4,7 @@
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "Interval": 30,
       "Limit" : 2,
-      "IncludeKeywords": "",
+      "IncludeKeywords": "gurkha",
       "ExcludeKeywords": "",
       "SkipStartWith": "",
       "SkipEndsWith": " main page/, getnewcomment",
