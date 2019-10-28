@@ -7,7 +7,7 @@
       "IncludeKeywords": "tam",
       "ExcludeKeywords": "",
       "SkipStartWith": "",
-      "SkipEndsWith": "",
+      "SkipEndsWith": " main page/, getnewcomment",
       "Domain" : "https://www.tamilmv.win",
       "Snaps" : [
 	      {"Dkey": "jrDMkDIbg1wtuVPE6mG0J2IONvUnR7LnCJ+k6RnZlQc8WOgdvQZLSEWDErcm4fU5KA/W4fJpVDos+K9mNzoNVqxKnFn4ikDR", "Size": "64"},
