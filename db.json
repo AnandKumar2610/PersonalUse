@@ -3,7 +3,7 @@
       "TempMail": "qSXs9MZyJ0r01g/gZe4+c0GHeHHFvjry",
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "Interval": 30,
-      "Limit" : 3,
+      "Limit" : 1,
       "IncludeKeywords": "tamil,english",
       "ExcludeKeywords": "",
       "SkipStartWith": "",
@@ -11,7 +11,7 @@
       "Domain" : "https://www.tamilmv.win",
       "TR": {
 		"Domain": "https://www.tamilrockers.com",
-		"Limit": 3
+		"Limit": 1
 	},
       "Snaps" : [
 	      {"Dkey": "jrDMkDIbg1wtuVPE6mG0J2IONvUnR7LnCJ+k6RnZlQc8WOgdvQZLSEWDErcm4fU5KA/W4fJpVDos+K9mNzoNVqxKnFn4ikDR", "Size": "64"},
