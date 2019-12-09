@@ -6,7 +6,7 @@
       "Limit" : 2,
       "IncludeKeywords": "tamil,english",
       "ExcludeKeywords": "",
-      "SkipStartWith": "",
+      "SkipStartWith": "[,(,BDRip",
       "SkipEndsWith": " main page/, getnewcomment",
       "Domain" : "https://www.1tamilmv.com",
       "TR": {
