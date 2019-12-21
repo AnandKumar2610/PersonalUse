@@ -18,8 +18,7 @@
 	      {"Dkey": "OPh1h0EuX0/JDY14siUfwthbTuJwzrBR/Qqj0WxYOdj0pZ9IhAmb71b1RJY8MKqsY6fSvmAhywqnAKjmnLdY4axKnFn4ikDR", "Size": "63"},
 	      {"Dkey": "jrDMkDIbg1wtuVPE6mG0J2IONvUnR7LnCJ+k6RnZlQc8WOgdvQZLSEWDErcm4fU5KA/W4fJpVDos+K9mNzoNVqxKnFn4ikDR", "Size": "64"},
 	      {"Dkey": "JcgIEqMASYQ2y8G+rmjkQgDg1sNizYxd8og56Y+ooy7Z1LdDWqaFhrYotlCADcokAg0+pto85wcSP4/QZ7twnKxKnFn4ikDR", "Size": "57"},
-              {"Dkey": "udlOGA6yUUH3uAI+pHS9FKl2nhYrT7UEhGDDH0ZlFQC1oH7CqyUqmbehXWliadQ/tCugYLaf+T1i/xC1EKvGVaxKnFn4ikDR", "Size": "17"}, 
-              {"Dkey": "UZIPSPtIvR6wZ3PHA7lkdOBHqEZlLVhZz6jiqnRXxiycRkJxsypSGmuLamBM3LdPnfnV2PGbQ7DLee3trMahc6xKnFn4ikDR", "Size": "20"}
+              {"Dkey": "udlOGA6yUUH3uAI+pHS9FKl2nhYrT7UEhGDDH0ZlFQC1oH7CqyUqmbehXWliadQ/tCugYLaf+T1i/xC1EKvGVaxKnFn4ikDR", "Size": "17"}
               ],
       "OmKeys" : ["608c6404", "4b72cdce", "9e34e80c", "ba1c865d"],
       "Users" : [{"Name":"Admin","DeviceId":"f78TbzyTnqlq0qTBHZGOIaxKnFn4ikDR","PlayerID":"9aea49f9-fbac-4f29-af2c-6ac2e930107e", "MagicNotify": 1}
