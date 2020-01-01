@@ -7,7 +7,8 @@
       "IncludeKeywords": "tamil,english",
       "ExcludeKeywords": "",
       "SkipStartWith": "[,(,BDRip",
-      "SkipEndsWith": " main page/, getnewcomment",
+      "SkipEndsWith": " main page/",
+      "RemoveWords": "/&do=getNewComment",
       "Domain" : "https://www.1tamilmv.com",
       "TR": {
 		"Domain": "http://tamilrockers.ws",
