@@ -10,7 +10,7 @@
       "SkipEndsWith": " main page/, getnewcomment",
       "Domain" : "https://www.1tamilmv.com",
       "TR": {
-		"Domain": "https://www.tamilrockers.ws",
+		"Domain": "http://tamilrockers.ws",
 		"Limit": 4
 	},
       "AppendHD": "BlueRay,BluRay,WEBDL,WEB-DL",
