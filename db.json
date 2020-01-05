@@ -5,7 +5,7 @@
       "Interval": 45,
       "Limit" : 4,
       "IncludeKeywords": "tam,eng",
-      "ExcludeKeywords": "Language/Audio,Post & Share",
+      "ExcludeKeywords": "Language/Audio,Post & Share,TV SHOWS / General Videos",
       "SkipStartWith": "[,(,BDRip",
       "SkipEndsWith": " main page/",
       "RemoveWords": "1TamilMV.com,/&do=getNewComment",
