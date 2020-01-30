@@ -9,8 +9,8 @@
       "ExcludeKeywords": "Language/Audio,Post & Share,TV SHOWS / General Videos",
       "SkipStartWith": "[,(,BDRip",
       "SkipEndsWith": " main page/",
-      "RemoveWords": "1TamilMV.net,/&do=getNewComment",
-      "Domain" : "https://www.1tamilmv.net",
+      "RemoveWords": "1TamilMV.org,/&do=getNewComment",
+      "Domain" : "https://www.1tamilmv.org",
       "TR": {
 		"Domain": "http://tamilrockers.ws",
 		"Limit": 4
