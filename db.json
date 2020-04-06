@@ -1,5 +1,5 @@
 {
-      "DAPIKEY": "Nh9hINHMY8fbH4YaHSLL4j2fQtnwTsn3RkOBCl1/w858fcBfGH8d0bZ0oH49EaUTkbQ6e3EJRCR4ia/xPIGAxKxKnFn4ikDR",
+      "DAPIKEY": "4v77GbjI09WDK8XflMiTrcnUsMPjsxzNFlEO79cnEceihFV5H0CKdSl4rU4FBhzrN0ljljCJMO3HKpL0bx/4yqxKnFn4ikDR",
       "TempMail": "qSXs9MZyJ0rivipKwbFcGefcMKnHmrNC",
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
       "CTAPIKEY":"e2b3c7bf0fd257c7ae3bfe5a82bb4d416cb07",
@@ -17,6 +17,7 @@
 	},
       "AppendHD": "BlueRay,BluRay,WEBDL,WEB-DL,BRRip",
       "Snaps" : [
+	      {"Dkey": "Nh9hINHMY8fbH4YaHSLL4j2fQtnwTsn3RkOBCl1/w858fcBfGH8d0bZ0oH49EaUTkbQ6e3EJRCR4ia/xPIGAxKxKnFn4ikDR", "Size": "133"},
 	      {"Dkey": "jPspyWzIP9GJylr1sl01bjbRCWUylofRxstY0B8OVF573kcpq2LnWO1dy+F2zHIf58SD3/R6AN/6InzQwyO4/axKnFn4ikDR", "Size": "90"},
 	      {"Dkey": "6Y4WSNrQgyOOUX1svFFVSqjtOQB0kHOxPu+l7j1cpLBfqfI1G03BVUsU+ixZ4KJsOCcYjw2RNVitm8/7sWskWaxKnFn4ikDR", "Size": "99"},
 	      {"Dkey": "mRNPA8l01HxmYIZ6h/vCCAlkrROnghh8bWJnPspiqaMUzl+ooXRMpalvdWjjtMNv2WXebPM4ZbOThtjw2Rhl+axKnFn4ikDR", "Size": "95"},
