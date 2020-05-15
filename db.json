@@ -70,23 +70,16 @@
 		,{"Name":"Vijayakumar","DeviceId":"QR23GHxKCuyO4by86tGLgqxKnFn4ikDR","PlayerID":"d16248f2-2e9b-41fa-820c-47566c44efdc", "MagicNotify": 0}
 	],
 	"Backgrounds": [
-		{"name": "https://i.pinimg.com/originals/3a/f8/7b/3af87b6928b25d4ac5705daa203e7f23.jpg"},
-		{"name": "https://images.pexels.com/photos/1156684/pexels-photo-1156684.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
-		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSddCrC5oUG7dBGjQ8XbMD64yf4rmRdMA-l2pZCp00ILh_KCJrZ&usqp=CAU"},
-		{"name": "https://lh3.googleusercontent.com/proxy/eSZwrM_NCFrHiduO4_581tPLm-T4u-ST4LFnpWlQGns7GrHV7ERSoHb0p4OORMB_3hBtwzeK__2D_ko8XVT4LZgXi1SWo31PHiW6ZCJMhHZIrJhclWhKSQnmGKuMNgk3lEwVuMrhPpGPvb00II9MDIJSWNoA2Bb0CP-60E_pBbSRQv-jdWY"},
 		{"name": "https://fsa.zobj.net/crop.php?r=B3I6Ws0f0tzAHtNUhRIctxQKEsikKvP5J3nURWwVPV_WGMvQcx-McBGNwSSrxaO_he93Iqbu1AuVcWRHzqkxt0RVir-DGW-NiPzt-tRzOVnCapm1MKEADee_Tups3LtxPomxyGP9oaTN_y_pmIx97oJxS_HXz5QbWhd6m_Nq3dL_Q0OwSX5D_i0xNQg"},
-		{"name": "https://www.pixelstalk.net/wp-content/uploads/2016/10/Anonymous-Wallpaper-for-Iphone-Download-Free.jpg"},
-		{"name": "https://i.pinimg.com/236x/14/d1/c0/14d1c0fd755f10391c7b4fa62fccf754.jpg"},
-		{"name": "https://images.pexels.com/photos/462030/pexels-photo-462030.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}, 
-                {"name": "https://i.ibb.co/qmGZTsm/Screenshot-2020-04-22-10-07-18-056-com-miui-gallery.jpg"}, 
-                {"name": "https://i.ibb.co/7k0Nt3x/2019-08-25-03-12-01.jpg"}, 
-		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfdEhqxYVFdYH3nqj85hQSWz6fQdS-sMpt9aBBw6Xy268GbhhR&usqp=CAU"}, 
-		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSObgqc8L19QRXVz3o_h9IsVd484KLtYVn-zDwQHR9FMnQlD17L&usqp=CAU"}, 
-		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ8wYuDa-boYV8a1wpzBX8yM6vOPbDNd7gf5yyJYz8VHWakQ28&usqp=CAU"},
-                {"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyTcuXMT0oUZ3wkHbEb0dnO5ewxkPCYro5q9MIyTbhaO2C79Vq&usqp=CAU"},
-                {"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZxIQpyLrtl0xoUowyCRT-9LpUXtjyUxS4QLw-cV3eFi7FUvyr&usqp=CAU"},
-                {"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSY9DdiVABezyRdXixCqNv1hXm0UWQpgKcQf5Hqqa1QSWL3oeZh&usqp=CAU"}, 
-		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8Mq7LEVfGggpTr_2TUb3paKRMT-CWyrI0jKgAmgOYCPKt4IzI&usqp=CAU"}
+		{"name": "https://www.itl.cat/pngfile/big/192-1929466_spiderman-spider-man-2-hd.jpg"},
+		{"name": "https://wallpapercave.com/wp/wp3851782.jpg"},
+		{"name": "https://mfiles.alphacoders.com/467/46743.jpg"},
+		{"name": "https://i.pinimg.com/originals/75/1e/9c/751e9c4d1b097875d7b914e94a8d4727.jpg"},
+		{"name": "https://wallpaperplay.com/walls/full/7/f/a/172801.jpg"},
+		{"name": "https://www.itl.cat/pngfile/big/87-876167_hd-games-wallpaper-for-android-witcher-3-wallpaper.jpg"},
+		{"name": "https://wallpapercave.com/wp/wp2597288.jpg"}, 
+                {"name": "https://i.pinimg.com/originals/03/2e/d5/032ed54380a5f79260a41c928e2473f9.jpg"}, 
+                {"name": "https://i.pinimg.com/originals/2e/61/4d/2e614d943e8f1dad5ee6819e19e4cbae.jpg"}
 	]
 }
 
