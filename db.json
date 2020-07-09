@@ -11,7 +11,7 @@
       "SkipStartWith": "[,(,BDRip",
       "SkipEndsWith": " main page/",
       "RemoveWords": "1TamilMV.org,/&do=getNewComment",
-      "Domain" : "https://www.1tamilmv.org",
+      "Domain" : "https://www.1tamilmv.xyz",
       "TR": {
 		"Domain": "http://tamilrockers.ws",
 		"Limit": 4
