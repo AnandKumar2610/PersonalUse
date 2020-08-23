@@ -1,5 +1,5 @@
 {
-      "DAPIKEY": "L7gyk3/9SqXSG1/7xkvpnkRZfDCFpPNyj3rC5Vmn+3DEU08nUuv0X9G9ziVs+bpmgoBKdJAIZ0BDaGh9Dt1fMqxKnFn4ikDR",
+      "DAPIKEY": "AWWmEQYpQ0pbMdIjCvqe7IQJXrS2ieTaFL4mXxaBbCAKWl5Zu33OmFJyy14BnsteQ0M7VxTKTTDF4QQ/MYYlPKxKnFn4ikDR",
       "ApkURL": "wmlundlFlxaLP7yLiWXWuHh2JfPtT4R3b/a1jNKK4jU87jzoLEjsdRshnGh0Ab5sPaYX3TcBuQg+ulDRcvKJNZRYsuOLeWpYA4XejeqJwqbdV5bYTd5W+w==",
       "ApkVer": "V5.2",
       "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
@@ -18,6 +18,7 @@
 	},
       "AppendHD": "BlueRay,BluRay,WEBDL,WEB-DL,BRRip",
       "Snaps" : [
+	      {"Dkey": "L7gyk3/9SqXSG1/7xkvpnkRZfDCFpPNyj3rC5Vmn+3DEU08nUuv0X9G9ziVs+bpmgoBKdJAIZ0BDaGh9Dt1fMqxKnFn4ikDR", "Size": "74"},
 	      {"Dkey": "gIuQmTgmrzcJAcyXnxtBkQe2s1EvXd97Q23GJVlRR+ZpquWo+ky3WFwyVdftU6DQ1nyfY4H4oZiaNkNOSfZjKqxKnFn4ikDR", "Size": "85"},
 	      {"Dkey": "hZMnQpMrsuFgAJzZGBkrHLYfcJyqcNXGnXEindySxURB+Iq8NB0j7v1J/Cz3vjbvJCK/cxYJLibIFAxrLoHLz6xKnFn4ikDR", "Size": "81"},
 	      {"Dkey": "azzk4b5gsHT2O13a86gSFUTS8ctKIzrDyPbY7EW5xV6VNx1amT6t+NhilXVMesM/QQNh1mq4d47jJp476a5CcKxKnFn4ikDR", "Size": "111"},
