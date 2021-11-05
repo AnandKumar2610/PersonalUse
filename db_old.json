@@ -1,0 +1,102 @@
+{
+      "DAPIKEY": "7Ekejx+WD38bCY3pWlUWNSJCMZHCedyDKXL2mhJMbbb9Y42gNsH/hIAc5teZSiZoQ/cXUANBoKL8TP/UNbVU+KxKnFn4ikDR",
+      "ApkURL": "wmlundlFlxaLP7yLiWXWuHh2JfPtT4R3b/a1jNKK4jU87jzoLEjsdRshnGh0Ab5sPaYX3TcBuQg+ulDRcvKJNXqNWnniIKVQjp8LQ2PxRsqnWppIVgHmgA==",
+      "ApkVer": "V6.0",
+      "RAPIKEY": "4bf6608e1f7e4f368598f5116ed8e12e",
+      "CTAPIKEY":"e2b3c7bf0fd257c7ae3bfe5a82bb4d416cb07",
+      "Interval": 45,
+      "Limit" : 4,
+      "IncludeKeywords": "tam,eng",
+      "ExcludeKeywords": "Language/Audio,Post & Share,TV SHOWS / General Videos",
+      "SkipStartWith": "[,(,BDRip",
+      "SkipEndsWith": " main page/",
+      "RemoveWords": "1TamilMV.org,/&do=getNewComment",
+      "Domain" : "https://www.1tamilmv.me",
+      "TR": {
+		"Domain": "https://tamilrockers.ws",
+		"Limit": 4
+	},
+      "AppendHD": "BlueRay,BluRay,WEBDL,WEB-DL,BRRip",
+      "Snaps" : [
+	      {"Dkey": "gFDgVFWfJPFSjvnGlgcyuqKBlrVQQl87QfPbCDRk3ySXBdxK0p/mgxHl4bG6l05nD6bsz12kDRJASrLVQIg0j6xKnFn4ikDR", "Size": "81"},
+	      {"Dkey": "lTcutKLI/qNW3VH6urf/yPvWxH3iaG6vyC8B5lDNi9Eg3rmMnlHs8sM9hsKOxCEUqJjqTniPEsOwCqkDyuK9C6xKnFn4ikDR", "Size": "68"},
+	      {"Dkey": "wc4CM/MJnv5iJfjN7l2hLaz5KwuKOM9P0D63yrIw98nAaREKSxWYzOLYFWpVmjK7Q4bTDBRN3/y0NmQaYzJo26xKnFn4ikDR", "Size": "69"},
+	      {"Dkey": "r3DIoasjoQLya32mfvqQdtSBsaAqTkV3OZC1SFqD3lXBWTM7vbojTfH9iq+wGD716bzVQDtkTbS/06LTMN4m36xKnFn4ikDR", "Size": "49"},
+	      {"Dkey": "iE4qBh0127XGK0GpNfRXRgdqTVEq81MlJV78yF+eRGTJS82a2v3wfCQ585P06UXsSvlJkRkQUyYQgfVqXeBE/KxKnFn4ikDR", "Size": "42"},
+	      {"Dkey": "1nqfvmO165+M0+qbkStFvFrDGMnIwlYBviOHDBNL0iRE7NMx3jE2TmUQfJY7KGITk5oKiaGilel0H3CUdkxXbKxKnFn4ikDR", "Size": "55"},
+	      {"Dkey": "2zkKmyZ+S49a3n+NszlyaAlh4gy5AGutkfLSMr+Gk8extXTi2Yidwnn2e1toxRdEqi95/JicWbmnPjy4TOMvsKxKnFn4ikDR", "Size": "58"},
+	      {"Dkey": "Vuh7UeDy7Ogu18NVAZMnHqrWGTABblqkeDIECuYDbwppR6fiXdFvlPkeNCfR6OH5ianfaThycm68WTmqpPd2UKxKnFn4ikDR", "Size": "54"},
+	      {"Dkey": "6X9xJLBXeQ+Iyj2o/fWnB3D+e1NsLcTETOaSNltN808I1Fh1JBVg0VU+AD1aXEElux82L4k5kAfTyQE2lVQFbKxKnFn4ikDR", "Size": "84"},
+	      {"Dkey": "gzJY7v5uw+SFUb4lFeSy8yPRHZrzt+TOUyqfV2mpQS8faNiEWC2eOTZuO7AVsGtuxlaQK5GrVVh/i0PYyiHyU6xKnFn4ikDR", "Size": "63"},
+	      {"Dkey": "dnptwQaBgO2sKBgmzYlI6wS4Z1+HhXdSBhFHowH8jqlr7KFYYzCPyUO+LX0HytTT93DRZnRbkw/ny4pNO64EWqxKnFn4ikDR", "Size": "45"},
+	      {"Dkey": "8VLl6iIiLyAMt0exjPlPC9TcnYqtgdh1O0VY5OO03VYx01CYuFaqbyOL8vjU2XVQwBOG99qpuCJ2h60jr/U2+6xKnFn4ikDR", "Size": "67"},
+	      {"Dkey": "wBIqFzs30U0hbOIMZqeZaJeenyWYBKqnGrz2WDjl3eYCDgVpbxSe219i1i72EdU9R0A+KNbbzkYz52ktozvUr6xKnFn4ikDR", "Size": "31"},
+	      {"Dkey": "L7gyk3/9SqXSG1/7xkvpnkRZfDCFpPNyj3rC5Vmn+3DEU08nUuv0X9G9ziVs+bpmgoBKdJAIZ0BDaGh9Dt1fMqxKnFn4ikDR", "Size": "74"},
+	      {"Dkey": "gIuQmTgmrzcJAcyXnxtBkQe2s1EvXd97Q23GJVlRR+ZpquWo+ky3WFwyVdftU6DQ1nyfY4H4oZiaNkNOSfZjKqxKnFn4ikDR", "Size": "85"},
+	      {"Dkey": "hZMnQpMrsuFgAJzZGBkrHLYfcJyqcNXGnXEindySxURB+Iq8NB0j7v1J/Cz3vjbvJCK/cxYJLibIFAxrLoHLz6xKnFn4ikDR", "Size": "81"},
+	      {"Dkey": "azzk4b5gsHT2O13a86gSFUTS8ctKIzrDyPbY7EW5xV6VNx1amT6t+NhilXVMesM/QQNh1mq4d47jJp476a5CcKxKnFn4ikDR", "Size": "111"},
+	      {"Dkey": "4v77GbjI09WDK8XflMiTrcnUsMPjsxzNFlEO79cnEceihFV5H0CKdSl4rU4FBhzrN0ljljCJMO3HKpL0bx/4yqxKnFn4ikDR", "Size": "87"},
+	      {"Dkey": "Nh9hINHMY8fbH4YaHSLL4j2fQtnwTsn3RkOBCl1/w858fcBfGH8d0bZ0oH49EaUTkbQ6e3EJRCR4ia/xPIGAxKxKnFn4ikDR", "Size": "133"},
+	      {"Dkey": "jPspyWzIP9GJylr1sl01bjbRCWUylofRxstY0B8OVF573kcpq2LnWO1dy+F2zHIf58SD3/R6AN/6InzQwyO4/axKnFn4ikDR", "Size": "90"},
+	      {"Dkey": "6Y4WSNrQgyOOUX1svFFVSqjtOQB0kHOxPu+l7j1cpLBfqfI1G03BVUsU+ixZ4KJsOCcYjw2RNVitm8/7sWskWaxKnFn4ikDR", "Size": "99"},
+	      {"Dkey": "mRNPA8l01HxmYIZ6h/vCCAlkrROnghh8bWJnPspiqaMUzl+ooXRMpalvdWjjtMNv2WXebPM4ZbOThtjw2Rhl+axKnFn4ikDR", "Size": "95"},
+	      {"Dkey": "6Fttu8R8ytM8mBE7M2ioFvIsPf0l51Rl5GgOp9q/9AKxA2UHxHfyAoIuFaw4GB+05O1QPwBWAaNGk2ksHSGdE6xKnFn4ikDR", "Size": "84"}
+              ],
+      "OmKeys" : ["608c6404", "4b72cdce", "9e34e80c", "ba1c865d"],
+      "GgleKeys" : "32882749ab9d1776ef2519fe5712c839, 5d05d7148781510430b8d3c28d6e2d10, e459727e1486b73b7d418cc6078d6d84, c4ef73df5be199e7ac0a22bb2face6b5, f94c00baf8b172b82954412a71c16668, 4903768d39494f1c6ae5d90e31e67dcb, 6d386da35d1dd9406841eacf00457af6, fbd84236c338073968a0a0d09dc87bf9, 80b29da76f16fc3601e50123d1412c9b, 7e29df52c65ac787650df3f5dda1a398",
+      "Users" : [{"Name":"Admin","DeviceId":"mbbhgoEkjTFZ9OOd7zhWNKxKnFn4ikDR","PlayerID":"ccbb17f9-fba0-4009-9772-9a6156b2192d", "MagicNotify": 1}
+		,{"Name":"Ajay ","DeviceId":"Lo+xSW5ItobGO02i4ydksaxKnFn4ikDR","PlayerID":"9078e7bf-ec30-413e-b494-c0e7c5f55284", "MagicNotify": 0}
+		,{"Name":"Arun","DeviceId":"sC256x2bgKYsrQKbEkcc66xKnFn4ikDR","PlayerID":"84d9fd9a-fdc5-4355-b5a4-69033420e9f8", "MagicNotify": 0}
+		,{"Name":"Anandraja","DeviceId":"Nn5xTdqo6RPuCVxJnYYWAaxKnFn4ikDR","PlayerID":"3495c457-07ba-4e34-992f-3b43fc45e0ea", "MagicNotify": 0}
+		,{"Name":"Anbu","DeviceId":"FX0tdOwrZ5cGigtkFxGsCqxKnFn4ikDR","PlayerID":"f353c780-fed0-4401-8418-35a2f5e8ebd5", "MagicNotify": 0}
+		,{"Name":"Anil ","DeviceId":"DELzS7dnBYitRZ9Od/39e6xKnFn4ikDR","PlayerID":"01e7a7ea-6133-4b50-ba9d-299ce2828b84", "MagicNotify": 0}
+		,{"Name":"Ahamed Sherif","DeviceId":"YL0G7ssEsbbsb2xUABdvDKxKnFn4ikDR","PlayerID":"2c251240-0209-4024-8285-030cba5f1419", "MagicNotify": 0}
+		,{"Name":"Dinesh","DeviceId":"1LBCkhhqBbANmdP0HoMdsaxKnFn4ikDR","PlayerID":"32ec41d1-8192-4236-9283-dbf456bea619", "MagicNotify": 0}
+		,{"Name":"Emulator","DeviceId":"mVDEmUN8S4f1SnoNe4gEWaxKnFn4ikDR","PlayerID":"", "MagicNotify": 0}
+		,{"Name":"Faizel","DeviceId":"LKLTode+NxksUVXKqYnNC6xKnFn4ikDR","PlayerID":"0691ed31-5706-4813-97b6-0b666befc4c1", "MagicNotify": 0}
+		,{"Name":"Ilavarasan ","DeviceId":"8lR/RS73jtr1PLwnKt3on6xKnFn4ikDR","PlayerID":"56a96692-08fe-41ee-807b-8366ea778132", "MagicNotify": 0}
+		,{"Name":"Kannan ","DeviceId":"DhB8mw9TW7eYm+5zLLxLfaxKnFn4ikDR","PlayerID":"4f75bb74-8f5c-4fa5-b20d-91b61fa9cb9c", "MagicNotify": 0}
+		,{"Name":"Kirthika ","DeviceId":"aso9ZaPY7yTOGE+pAjeEHqxKnFn4ikDR","PlayerID":"642737c9-463e-4c9f-932c-4c7998125af5", "MagicNotify": 0}
+                ,{"Name":"Kishore ","DeviceId":"MzaZrV2NeH9CDv7hPnAsFaxKnFn4ikDR","PlayerID":"3b0cb510-2443-4638-b3fd-6d54dec3d1ed", "MagicNotify": 0}
+		,{"Name":"Krish ","DeviceId":"r5/0X4euIXqOAzpG4h0vy6xKnFn4ikDR","PlayerID":"4cd23e4d-3d33-4823-9224-8948c780491e", "MagicNotify": 0}
+		,{"Name":"Krish 2","DeviceId":"unhMisvlWFfFt9dNNBrIjKxKnFn4ikDR","PlayerID":"", "MagicNotify": 0}
+		,{"Name":"Kohila","DeviceId":"YE3Y9l+sU1XW+EE3jNiPe6xKnFn4ikDR","PlayerID":"21aaa8b1-f0e1-42e5-ae41-3942ca169ff1", "MagicNotify": 0}
+		,{"Name":"Kala","DeviceId":"XiPyNBpTQ65jfvDMHEzh5qxKnFn4ikDR","PlayerID":"8c02b647-473c-4c3b-85c8-a1b97fce9bba", "MagicNotify": 0}
+		,{"Name":"Magesh Raja ","DeviceId":"BlOasQUiI24LUyFWLyS0BKxKnFn4ikDR","PlayerID":"bdaea9c1-19d9-4ddf-9f73-e96ac5ff9666", "MagicNotify": 0}
+		,{"Name":"Murali","DeviceId":"TFEBKOtJg4jsptYv8CoX/6xKnFn4ikDR","PlayerID":"c734cfef-8fe8-47f1-9523-664c70cb8094", "MagicNotify": 0}
+		,{"Name":"Manu ","DeviceId":"HjTrcA3NCcSxFA7G3APOSqxKnFn4ikDR","PlayerID":"288f50a7-78e9-4cf2-9a70-02c41597f183", "MagicNotify": 0}
+                ,{"Name":"Maju","DeviceId":"Dk340iZJJPt08w+Z9/H61axKnFn4ikDR","PlayerID":"9a0271e6-6946-42f9-a05d-fcc0953d9959", "MagicNotify": 0}
+                ,{"Name":"Jayakumar","DeviceId":"x4Z1SXx3Yx7K6IKzfPQfKqxKnFn4ikDR","PlayerID":"db280716-94c8-447d-98c0-f84567453117", "MagicNotify": 0}
+                ,{"Name":"Pandi ","DeviceId":"GxZ9v05AeE3oe1D+Eq6a8axKnFn4ikDR","PlayerID":"2710f80b-98b4-4ab1-8e4e-81620ecae61f", "MagicNotify": 0}
+		,{"Name":"Prabha ","DeviceId":"YBuOW7x++5wxMGiDenh9raxKnFn4ikDR","PlayerID":"94572a72-cb2b-4c5e-8cfc-2d63ac048cef", "MagicNotify": 0}
+		,{"Name":"Priya","DeviceId":"7Zd9Ik6wfXGqfd50DSUzpqxKnFn4ikDR","PlayerID":"0d7eb8de-95b6-41a7-b4d8-0560b34360b5", "MagicNotify": 0}
+		,{"Name":"Rizwan","DeviceId":"MY8v65Etrz1OkZd+96qNgaxKnFn4ikDR","PlayerID":"cb0e9443-e595-4eff-86e2-65bb1caf7c75", "MagicNotify": 0}
+		,{"Name":"Ruban","DeviceId":"RMOgzeOSpKBZBqYQkgYxBKxKnFn4ikDR","PlayerID":"6cd04567-b5a8-4a6f-9dba-754f0baff357", "MagicNotify": 0}
+		,{"Name":"Sathish Kumar","DeviceId":"m2XrdqOG6jY1mGP2NqNEzKxKnFn4ikDR","PlayerID":"153a30b9-030d-4e84-a876-3a869d25b17e", "MagicNotify": 0}
+		,{"Name":"Sathish Kevin","DeviceId":"ZcAvIwHo/9jjjX8rNF3BzaxKnFn4ikDR","PlayerID":"77d7aae3-1ba3-457d-8239-44a831d64900", "MagicNotify": 0}
+		,{"Name":"Sathish Babu","DeviceId":"L9oUDdS6xZO2EmmjnLpMvqxKnFn4ikDR","PlayerID":"294a6b63-e3f3-423a-a4fc-bbafb91fe6bc", "MagicNotify": 0}
+		,{"Name":"Sheik","DeviceId":"XblC12u4Abw1mh10uAopU6xKnFn4ikDR","PlayerID":"f3cc06f4-b41d-4966-91ba-59821ad99e3b", "MagicNotify": 0}
+		,{"Name":"Sundhari","DeviceId":"zQYyeP9au6K2pLNDnpVRraxKnFn4ikDR","PlayerID":"2a24a08c-30e0-4e81-82d6-bb4eabe6a144", "MagicNotify": 0}
+		,{"Name":"Sundhari 2","DeviceId":"M8k2gUoh8IkciiaL2SgJX6xKnFn4ikDR","PlayerID":"2bbc9ed4-defc-4040-9deb-b529a00bf6be", "MagicNotify": 0}
+                ,{"Name":"Swetha","DeviceId":"9WnfCt6iriq7PYIR7xGETaxKnFn4ikDR","PlayerID":"c29b601d-483a-4fee-a8e6-334a462f3795", "MagicNotify": 0}
+		,{"Name":"Swetha Tab","DeviceId":"dxs0MugkGsQDBPNBDHSOK6xKnFn4ikDR","PlayerID":"5b101d17-92ce-4ff3-aa54-4b7dca366add", "MagicNotify": 0}
+                ,{"Name":"Syed","DeviceId":"SzXUmePPthF95haB480j0KxKnFn4ikDR","PlayerID":"82e8545c-8eb2-416d-af90-c13709c9e5c1", "MagicNotify": 0}
+		,{"Name":"Thaila","DeviceId":"cyxAKQ8A/zRcnojFCFbaE6xKnFn4ikDR","PlayerID":"6c15e118-54fd-4b2c-925f-5f93299accea", "MagicNotify": 0}
+		,{"Name":"Thiyagarajan","DeviceId":"wkRsmS5mGBxSYthcbNQsKaxKnFn4ikDR","PlayerID":"d78b4abe-f9af-4fbc-97ad-f16a15a3d29a", "MagicNotify": 0}
+		,{"Name":"Uday","DeviceId":"nBqsf50fNpJk8J5WOWamV6xKnFn4ikDR","PlayerID":"f672fe97-ff9e-4738-b83d-dccaef6b8fd2", "MagicNotify": 0}
+		,{"Name":"Vivek","DeviceId":"XnR6KHJ/GBMJucypJR/uWqxKnFn4ikDR","PlayerID":"cb434d2f-dced-443b-a6a2-fc9839a396de", "MagicNotify": 0}
+		,{"Name":"Venkat","DeviceId":"ocQe+5lsPLo59UZdYXg1yaxKnFn4ikDR","PlayerID":"8cac50cf-0bcf-41d2-8042-46998f711aa9", "MagicNotify": 0}
+		,{"Name":"Vijay Apar","DeviceId":"s514SuTULIg/z9yW4gfQU6xKnFn4ikDR","PlayerID":"7cb9b209-d745-44ed-8803-28c6f70aed06", "MagicNotify": 0}
+		,{"Name":"Vijayakumar","DeviceId":"qU5U0GCtRzgrxRJEZ/Qd66xKnFn4ikDR","PlayerID":"d16248f2-2e9b-41fa-820c-47566c44efdc", "MagicNotify": 0}
+	],
+	"Backgrounds": [
+		{"name": "https://wallpaperaccess.com/full/57172.png"},
+		{"name": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
+		{"name": "https://wallpapercave.com/wp/wp2662054.png"},
+		{"name": "https://wallpaperaccess.com/full/397403.jpg"},
+		{"name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkG-NHf_os7c6_Pe6N0nk2xITfjO4YGO-rA&usqp=CAU"},
+		{"name": "https://www.mordeo.org/files/uploads/2019/01/PUBG-Dark-Background-Artwork-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"},
+		{"name": "https://cdn.pixabay.com/photo/2016/08/03/06/22/space-1565986__340.jpg"},
+		{"name": "https://2.bp.blogspot.com/-sB22avj5PkY/Xe91CcarRWI/AAAAAAAARNU/g4eJ_kzMlKYcxa3yTcypOvlVjEqYX4AMwCK4BGAYYCw/s1600/3D-dark-wallpapers-3-ashueffects%2B%252822%2529.jpg"}
+	]
+}
