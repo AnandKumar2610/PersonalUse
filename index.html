@@ -1,3 +1,16 @@
+<html>
+<body onload="loadDoc()">
+
 <script>
-document.write("Hello Anand")
+function loadDoc() {
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    document.write(this.responseText);
+  }
+  xhttp.open("GET", "https://www.w3schools.com/js/ajax_info.txt");
+  xhttp.send();
+}
 </script>
+
+</body>
+</html>
